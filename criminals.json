@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Palwinder",
+        "age": 45,
+        "danger_level": "high",
+        "crimes_committed": [
+            "Terrorist Attack"
+        ],
+        "known_associates": [
+            "Shambo"
+        ],
+        "status": "wanted"
+    }
+]
