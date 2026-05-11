@@ -969,7 +969,7 @@ def main():
             print("Invalid choice.")
             continue
 
-        again = input("Do you want to perform another action(yes/no): ").strip().lower()
+        again = input("\nDo you want to perform another action(yes/no): ").strip().lower()
 
         if again != "yes":
             print("Goodbye detective.")
